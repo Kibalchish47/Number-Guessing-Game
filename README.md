@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kibalchish47
+- 👀 I’m interested in OS Developement, Artificial Intelligence, and the P = NP problem
+- 🌱 I’m currently learning Assembly, Computer Science Fundamentals and C.
+- 💞️ I’m looking to collaborate in my pet project : Lactus OS, which is a linux-based custom OS project of mine. 
+- 📫 How to reach me ...
