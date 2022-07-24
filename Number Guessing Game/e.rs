@@ -28,3 +28,8 @@ pub fn randomstuff()
         }
     }
 }
+
+fn main(){
+    randomstuff();
+}
+
