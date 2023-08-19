@@ -1,1 +1,1 @@
-# Fibonacci-Sequence
+# Number Guessing Game using Rust
